@@ -25,7 +25,7 @@ cd space-invader
 
 ### Run the game:
 ```
-python main.py
+python3 main.py
 ```
 
 ### Controls
